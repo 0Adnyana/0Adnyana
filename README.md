@@ -5,4 +5,9 @@ Undergraduate student studying Information Technology. Alumni at Apple Developer
 [Personal Website:](https://bayuadnyana.com)
 ## Connect with me!
 Contact me anytime. All of my socials below are open to messages :)
-[Email:](mailto:bayup.adnyana@gmail.com) bayup.adnyana@gmail.com <br> [LinkedIn:](https://www.linkedin.com/in/bayuadnyana/) bayuadnyana<br>[Discord:](https://discord.com/users/238182635052990464) adnyana
+<br>
+[Email:](mailto:bayup.adnyana@gmail.com) bayup.adnyana@gmail.com 
+<br> 
+[LinkedIn:](https://www.linkedin.com/in/bayuadnyana/) bayuadnyana
+<br>
+[Discord:](https://discord.com/users/238182635052990464) adnyana
