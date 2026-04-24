@@ -2,15 +2,16 @@
 ## About Me
 Undergraduate student studying Information Technology. Alumni at Apple Developer Academy @BINUS - Bali 2025. A developer with a sense of design. Learning backend (Golang) through boot.dev. Trying to break into product and move away from web development :) <br>
 
-My pivots: <br>
+**My pivots**: <br>
 Graphic Design -> Video Editing -> UI/UX -> Frontend -> Fullstack -> Product (wish me luck) :> <br>
 
-Hobbies: Homelabbing, Game emulation on my AYN Thor, Romanticizing the boring moments. <br>
+**Hobbies**: Homelabbing, Game emulation on my AYN Thor, Romanticizing the boring moments. <br>
 
-AI Stance: I use Cursor, but I'm a firm believer that AI is a multiplier - bad fundamentals, bad output. I only use AI for tasks that I know how to implement (or when the deadline hits). <br>
-AI Workflow: Ask Agent -> Prompt on Plan mode and tell it to ask clarifying questions -> Read docs and articles in the meantime -> Check plan, fix if bad -> Execute plans -> Check output -> Iterate <br>
+**AI Stance**: I use Cursor, but I'm a firm believer that AI is a multiplier - bad fundamentals, bad output. I only use AI for tasks that I know how to implement (or when the deadline hits). <br>
 
-Website: [bayuadnyana.com](https://bayuadnyana.com)
+**AI Workflow**: Ask Agent -> Prompt on Plan mode and tell it to ask clarifying questions -> Read docs and articles in the meantime -> Check plan, fix if bad -> Execute plans -> Check output -> Iterate <br>
+
+Website: [bayuadnyana.com](https://bayuadnyana.com) <br>
 Blog: soon
 
 ## Connect with me!
