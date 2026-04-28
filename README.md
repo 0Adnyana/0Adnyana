@@ -5,7 +5,7 @@ Undergraduate student studying Information Technology. Alumni at Apple Developer
 **My pivots**: <br>
 Graphic Design -> Video Editing -> UI/UX -> Frontend -> Fullstack -> Product (wish me luck) :> <br>
 
-**Hobbies**: Homelabbing, Game emulation on my AYN Thor, Romanticizing the boring moments. <br>
+**Hobbies**: Homelabbing, Game emulation on my AYN Thor, and Consumerism (/j). <br>
 
 **AI Stance**: I use Cursor, but I'm a firm believer that AI is a multiplier - bad fundamentals, bad output. I only use AI for tasks that I know how to implement (or when the deadline hits). <br>
 
