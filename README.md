@@ -15,10 +15,5 @@ Website: [bayuadnyana.com](https://bayuadnyana.com) <br>
 Blog: soon
 
 ## Connect with me!
-Contact me anytime. All of my socials below are open to messages :)
-<br>
-Email: [bayup.adnyana@gmail.com](mailto:bayup.adnyana@gmail.com)
-<br> 
-LinkedIn: [bayuadnyana](https://www.linkedin.com/in/bayuadnyana/)
-<br>
+Contact me through my discord below!
 Discord: [adnyana](https://discord.com/users/238182635052990464)
